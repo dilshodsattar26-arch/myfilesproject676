@@ -1,0 +1,8 @@
+{
+    "name": "sysroute-service",
+    "version": "1.0.676",
+    "private": false,
+    "environment": "production",
+    "build_id": 176,
+    "allow_public_access": true
+}
